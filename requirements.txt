@@ -4,3 +4,6 @@ streamlit
 folium
 streamlit_folium
 geopy
+pickle-mixin
+numpy
+plotly
